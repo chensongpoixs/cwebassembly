@@ -1,0 +1,9 @@
+import os
+NODE_JS =   'D:/Work/engine/webassembly/emsdk/node/14.18.2_64bit/bin/node.exe'
+PYTHON = 'D:/Work/engine/webassembly/emsdk/python/3.7.4-pywin32_64bit'
+JAVA =   'D:/Work/engine/webassembly/emsdk/java/8.152_64bit/bin/java.exe'
+LLVM_ROOT =   'D:/Work/engine/webassembly/emsdk/fastcomp/bin'
+BINARYEN_ROOT =   'D:/Work/engine/webassembly/emsdk/fastcomp'
+EMSCRIPTEN_ROOT =   'D:/Work/engine/webassembly/emsdk/fastcomp/emscripten'
+COMPILER_ENGINE = NODE_JS
+JS_ENGINES = [NODE_JS]
